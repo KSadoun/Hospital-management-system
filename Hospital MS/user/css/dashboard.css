@@ -1,0 +1,27 @@
+  *{
+    font-size: 1.3vw;
+  }
+  .heading{
+    font-weight: lighter;
+    margin: 3vw;
+  }
+
+  .row{
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+
+  .col{
+    text-align: center;
+    background-color: white;
+    border-radius: 105px;
+    margin: 1vw;
+  }
+
+  .footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

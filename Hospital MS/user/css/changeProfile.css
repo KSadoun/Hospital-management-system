@@ -1,0 +1,47 @@
+*{
+  font-size: 1.3vw;
+}
+
+.heading{
+  font-weight: lighter;
+  margin: 3vw;
+}
+
+.edit-box{
+  margin-bottom: 8vw;
+}
+
+.edit-form{
+  background-color: white;
+  border: 0.1vw solid #E3E3E3;
+  width: 50vw;  
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+
+}
+
+.patient-name{
+  position: absolute;
+  margin-top: -2.5vw;
+  background-color: white;
+  padding-left: 1vw;
+  padding-right: 1vw;
+
+}
+
+.information{
+  border: 0.1vw solid #E3E3E3;
+  padding: 2vw;
+}
+
+form input{
+  width: 100%;
+  border: 0.1vw solid #D5D5D5;
+  padding-left: 0.5vw;
+}
+select{
+  width: 100%;
+  padding: 0.2vw;
+  border: 0.1vw solid #D5D5D5;
+}

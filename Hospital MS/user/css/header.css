@@ -1,0 +1,17 @@
+.name{
+  background:none;
+  border: none;
+  margin-right: 10px;
+}
+
+#avatar{
+  margin-right: 10px;
+}
+
+#dropdownMenuButton:hover{
+opacity: 0.6;
+}
+
+i{
+color: #007AFF
+}

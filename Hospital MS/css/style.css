@@ -1,0 +1,22 @@
+*{
+  box-sizing: border-box;
+  font-size: 1.3vw;
+}
+
+.carousel-fade .carousel-inner .carousel-item {
+  transition: 0.5s;
+}
+
+.grid{
+  border-radius: 25px;
+  margin: 10px;
+  padding: 10px;
+  display: flex;
+  align-content: center;
+}
+
+.grid img{
+  height: 10vw;
+  margin-right: 10px;
+}
+
